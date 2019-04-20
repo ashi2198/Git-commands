@@ -36,5 +36,7 @@ git checkout -- file name: Undo the changes or bringing from repo to working cop
 
 git reset HEAD filename: unstage a file (remove a file from staging area)
 
+git remote add nickname url: establishing remote connection
 
+git push -u nickname master: pushing the files online or making it public (Enter the github username and password)
 
